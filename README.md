@@ -10,4 +10,10 @@
 - ⚡ Fun fact: I like to cook and eat.
 
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=Masiesworld&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+<a href="https://github.com/iampawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masiesworld&theme=light&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/iampawan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Masiesworld&show_icons=true&theme=light&line_height=27" alt="Mei's github stats"/>
+</a>
