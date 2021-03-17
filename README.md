@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on data analysis projects. 
 - 🤔 I’m looking for help with AWS.
 - 💬 Ask me about ETL. 
-- 📫 How to reach me: ymxmacy@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/meixi-yu)
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I like to cook and eat.
 
